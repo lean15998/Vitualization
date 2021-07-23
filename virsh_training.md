@@ -74,6 +74,6 @@ Chuyển VM từ máy này sang máy khác
 
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.15.png">
 
-VM không bị tắt đi trong q
+VM không bị tắt đi trong qúa trình chuyển
 
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.16.png">
