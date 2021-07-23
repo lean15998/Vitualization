@@ -58,6 +58,6 @@
 
 ### migrate from node A to node B
 
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.15.png">
 
-
-### live migrate
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.16.png">
