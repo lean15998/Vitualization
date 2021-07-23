@@ -9,10 +9,10 @@
 ### Edit config file
 
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.3.png">
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.4.png">
 
 ### show cpu pin
 
-<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.4.png">
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.5.png">
 
 ### edit cpu pin
