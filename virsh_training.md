@@ -21,10 +21,17 @@
 
 ### limit cpu
 
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.18.png">
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.19.png">
+
 
 
 ### limit bw
 
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.20.png">
+
+Kiểm tra file cấu hình
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.21.png">
 
 
 ### list interface
