@@ -31,6 +31,7 @@
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.20.png">
 
 Kiểm tra file cấu hình
+
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.21.png">
 
 
