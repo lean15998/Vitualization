@@ -58,6 +58,14 @@
 
 ### migrate from node A to node B
 
+Trước khi migrate
+
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/10.17.png">
+
+Chuyển VM từ máy này sang máy khác
+
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.15.png">
+
+VM không bị tắt đi trong qu
 
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/10.16.png">
