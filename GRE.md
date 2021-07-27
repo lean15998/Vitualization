@@ -2,7 +2,7 @@
 
 ### Topology
 
-<img src="https://github.com/lean15998/Vitualization/blob/main/images/11.01.PNG">
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/12.01.PNG">
   
 ### Cấu hình tại HOST 1
 
@@ -18,24 +18,23 @@
   
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.04.PNG">
         
- - Add port VXLAN tunnel interface cho vswitch ovs2
+ - Add port GRE tunnel interface cho vswitch ovs2
    
-<img src="https://github.com/lean15998/Vitualization/blob/main/images/11.05.PNG">
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/12.07.PNG">
           
  - Xem thông số cấu hình
 
-<img src="https://github.com/lean15998/Vitualization/blob/main/images/11.06.PNG">
+<img src="https://github.com/lean15998/Vitualization/blob/main/images/12.08.PNG">
 <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.07.PNG">
   
  - Tạo libvirt network ứng với vswitch ovs1 để kết nối vào máy VM
  
- <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.08.PNG">
- <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.09.PNG">
- <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.10.PNG">
+ <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.03.PNG">
+ <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.09.PNG">
  
  - Add interface vào trong VM
   
-  <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.11.PNG">
+  <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.10.PNG">
   
  - Set IP cho VM1
   
@@ -61,23 +60,23 @@
 
  <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.16.PNG">
   
- - Add port VXLAN tunnel interface cho vswitch ovs2
+ - Add port GRE tunnel interface cho vswitch ovs2
    
-  <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.17.PNG">
+  <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.02.PNG">
   
  - Xem thông số cấu hình
 
- <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.18.PNG">
+ <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.03.PNG">
   <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.19.PNG">
   
  - Tạo libvirt network ứng với vswitch ovs1 để kết nối vào máy VM
 
- <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.20.PNG">
-  <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.21.PNG">
+ <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.04.PNG">
+  <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.05.PNG">
  
  - Add interface vào trong VM
 
- <img src="https://github.com/lean15998/Vitualization/blob/main/images/11.22.PNG">
+ <img src="https://github.com/lean15998/Vitualization/blob/main/images/12.06.PNG">
   
  - Set IP cho VM2
   
