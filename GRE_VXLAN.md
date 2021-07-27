@@ -2,18 +2,26 @@
 
 ### Topology
 
-<src img="">
+<src img="https://github.com/lean15998/Vitualization/blob/main/images/11.01.PNG">
   
 ### Cấu hình tại HOST 1
 
  - Tạo Vswitch
   
+ <src img="https://github.com/lean15998/Vitualization/blob/main/images/11.02.PNG">
+    
  - Add port ens38 vào vswitch ovs2
   
+ <src img="https://github.com/lean15998/Vitualization/blob/main/images/11.03.PNG">
+      
  - Set IP cho 2 vswitch
   
+ <src img="https://github.com/lean15998/Vitualization/blob/main/images/11.04.PNG">
+        
  - Add port VXLAN tunnel interface cho vswitch ovs2
    
+ <src img="https://github.com/lean15998/Vitualization/blob/main/images/11.05.PNG">
+          
  - Xem thông số cấu hình
   
  - Tạo libvirt network ứng với vswitch ovs1 để kết nối vào máy VM
